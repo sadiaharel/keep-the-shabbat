@@ -1,0 +1,9 @@
+https://developers.google.com/maps/documentation/javascript/adding-a-google-map
+https://developers.google.com/maps/documentation/javascript/geolocation
+
+
+<!-- get place details:-->
+<!--https://maps.googleapis.com/maps/api/place/details/json?placeid=ChIJrTLr-GyuEmsRBfy61i59si0&key=AIzaSyDz_aQ2_PGAvoALbH9oHtg-YpmxmH1K0lg-->
+
+<!--place search:-->
+<!--https://maps.googleapis.com/maps/api/place/nearbysearch/json?location=-33.8670522,151.1957362&radius=500&type=restaurant&keyword=home&key=AIzaSyDz_aQ2_PGAvoALbH9oHtg-YpmxmH1K0lg-->

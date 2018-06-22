@@ -1,0 +1,8 @@
+react-google-map library:
+https://github.com/fullstackreact/google-maps-react.git
+
+on npm:
+https://www.npmjs.com/package/google-map-react
+
+for examples:
+https://fullstackreact.github.io/basic

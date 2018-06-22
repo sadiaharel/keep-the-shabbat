@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+#placeList{
+  padding:20px 40px 10px 10px;
+}
+.container.appContainer{
+  width: 99%;
+  max-width: 99%;
+}
+#pac-input{
+    font-size: 18px;
+    width: 200px;
+    margin: 11px;  
+}
